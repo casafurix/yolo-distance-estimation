@@ -1,19 +1,4 @@
-# Yolov4-Detector-and-Distance-Estimator
-
-_Find distance from object to camera using YoloV4 object detector, here we will be using single camera 📷, detailed explanation of distance estimation is available another repository_ [**Face detection and Distance Estimation using single camera**](https://github.com/Asadullah-Dal17/Distance_measurement_using_single_camera)
-
-https://user-images.githubusercontent.com/66181793/124917186-f5066b00-e00c-11eb-93cf-24d84e9c2e7a.mp4
-
-[**Video Tutorial Explains the concept and implementation** ](https://youtu.be/FcRCwTgYXJw) ![YouTube Video Views](https://img.shields.io/youtube/views/FcRCwTgYXJw?style=social)
-
-- Here we are targeting the person and cell phone classes only, for demo purpose.
-- you can follow all the steps mentioned in the video to create for other objects as well.
-
-implementation detail available on [_**Darknet**_](https://github.com/pjreddie/darknet)
-
----
-
-## TO DO
+TO DO
 
 - [X] Finding distance of mutiple object at same time.
 
@@ -120,3 +105,7 @@ car_width_in_rf = person_data[0][1]
 # then you find Focal length for each
 
 ```
+
+If you have any doubt DM me on insta `<a href="https://www.instagram.com/aiphile17/">` `<img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20">` `</a>` `</h4>`
+
+---
