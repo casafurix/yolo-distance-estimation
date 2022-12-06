@@ -105,7 +105,3 @@ car_width_in_rf = person_data[0][1]
 # then you find Focal length for each
 
 ```
-
-If you have any doubt DM me on insta `<a href="https://www.instagram.com/aiphile17/">` `<img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20">` `</a>` `</h4>`
-
----
